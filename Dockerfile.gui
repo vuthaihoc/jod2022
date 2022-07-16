@@ -1,0 +1,9 @@
+FROM eugenmayer/jodconverter:gui
+
+COPY ./fonts/* /usr/share/fonts/
+
+RUN fc-cache -fv && fc-list
+
+
+
+
