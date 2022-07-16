@@ -51,7 +51,7 @@ RUN apt update && \
     gsfonts \
     ttf-ancient-fonts-symbola \
     xfonts-base \
-    xfonts-scalable
+    xfonts-scalable fonts-crosextra-carlito fonts-crosextra-caladea fonts-dejavu-extra
 
 COPY ./fonts/* /usr/share/fonts/
 
