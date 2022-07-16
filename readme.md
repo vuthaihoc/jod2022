@@ -2,4 +2,4 @@
 
 - Base image from https://github.com/EugenMayer/docker-image-jodconverter
 
-- My prebuild image `vuthaihoc/jodconverter:gui` ans `vuthaihoc/jodconverter:rest`
+- My prebuild images are `vuthaihoc/jodconverter:gui` and `vuthaihoc/jodconverter:rest`
